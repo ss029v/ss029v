@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=280&section=header&text=Java%20Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&fontSize=90" width="100%"/>
   
-  <h1>Hi, I'm <a href="https://www.linkedin.com/in/shreyash-vairagade/">Shreyash Vairagade</a> 👋</h1>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=100%25&height=70&lines=Hi%2C+I'm+Shreyash+Vairagade+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+React.js;Architecting+The+Future" alt="Typing SVG" />
+  </a>
+
   <p>
     <a href="https://www.linkedin.com/in/shreyash-vairagade/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8B0000" />
@@ -69,16 +71,20 @@ I am a passionate **Java Full Stack Developer** specializing in backend architec
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ss029v">
-    <img src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&include_all_commits=true&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  </a>
-  <a href="https://github.com/ss029v">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true&langs_count=6" height="180" alt="languages graph" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ss029v&theme=default&background=ffffff&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&hide_border=true" alt="streak graph" />
+  <table align="center">
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&include_all_commits=true&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true" alt="Shreyash's Stats" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ss029v&theme=default&background=ffffff&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">

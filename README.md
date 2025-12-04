@@ -75,20 +75,34 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 </div>
 <br/>
-
 <div align="center">
+
+  <!-- GitHub Trophy (NEW working domain) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ss029v&theme=flat&no-frame=true&margin-w=15&no-bg=true" alt="trophy" />
+    <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=ss029v&theme=flat&no-frame=true&margin-w=15&no-bg=true" alt="trophy" />
   </a>
+
   <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&locale=en&theme=default&hide_border=true&bg_color=ffffff&title_color=8B0000&icon_color=8B0000&text_color=333333" alt="ss029v" />
-  
+
+  <!-- GitHub Stats (NEW official version) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&theme=default&hide_border=true" 
+    alt="GitHub stats"
+  />
+
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&hide_border=true&bg_color=ffffff&title_color=8B0000&text_color=333333" />
+
+  <!-- Top Languages (NEW official version) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&hide_border=true" 
+    alt="Top Languages"
+  />
+
 </div>
 
+<br/>
+
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
+  <!-- Footer Wave (NEW working domain) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" />
 </div>

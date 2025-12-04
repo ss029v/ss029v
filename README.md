@@ -36,7 +36,7 @@
         </ul>
       </td>
       <td width="50%" valign="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&title_color=8B0000&icon_color=8B0000&hide_border=true&bg_color=ffffff" alt="Shreyash's Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&theme=default&title_color=8B0000&icon_color=8B0000&hide_border=true&bg_color=ffffff" alt="Shreyash's Stats" width="100%" />
       </td>
     </tr>
   </table>
@@ -64,7 +64,7 @@
 
 <h2 align="center">📊 Consistency Graph</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true&stroke=ffffff&background=ffffff&ring=8B0000&fire=8B0000&currStreakNum=333333&currStreakLabel=8B0000" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ss029v&theme=default&hide_border=true&stroke=ffffff&background=ffffff&ring=8B0000&fire=8B0000&currStreakNum=333333&currStreakLabel=8B0000" alt="streak graph" />
 </div>
 
 <div align="center">

@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&fontSize=90" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=100%25&height=70&lines=Hi%2C+I'm+Shreyash+Vairagade+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+React.js;Architecting+The+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=100%25&height=70&lines=Hi%2C+I'm+Shreyash+Vairagade+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+React.js" alt="Typing SVG" />
   </a>
 
   <p>
@@ -39,8 +39,8 @@ I am a passionate **Java Full Stack Developer** specializing in backend architec
 
 | **Project** | **Description & Stack** | **Actions** |
 | :--- | :--- | :--- |
-| <img src="https://cdn-icons-png.flaticon.com/512/2965/2965335.png" width="50" alt="Notes Icon" /> <br/> **Secure Notes App** | **Secure, Full-Stack Notes Management System**<br/>Engineered a secure system with JWT Auth (Admin/User roles) and BCrypt encryption. Handles persistent storage via MySQL & JPA.<br/><br/>`Java` `Spring Boot` `Spring Security` `React` `Tailwind` `Docker` | [**🔴 Live Demo**](https://notes-app-net.netlify.app/)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Note-Web-Application) |
-| <img src="https://cdn-icons-png.flaticon.com/512/3063/3063176.png" width="50" alt="Health Icon" /> <br/> **Doctor-Patient Portal** | **Healthcare Management System**<br/>A robust platform facilitating interactions between patients, doctors, and admins. Features appointment scheduling and dynamic dashboards.<br/><br/>`Java` `JSP & Servlets` `JDBC` `MySQL` `Docker` `Render` | [**🔴 Live Demo**](https://doctor-patient-portal-08hh.onrender.com)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Healthcare-Management-Application) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2965/2965335.png" width="50" alt="Notes Icon" /> <br/> **Secure Notes App** | **Secure, Full-Stack Notes Management System**<br/>Engineered a secure system with JWT Auth (Admin/User roles) and BCrypt encryption. Handles persistent storage via MySQL & JPA.<br/><br/>![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | [**🔴 Live Demo**](https://notes-app-net.netlify.app/)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Note-Web-Application) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3063/3063176.png" width="50" alt="Health Icon" /> <br/> **Doctor-Patient Portal** | **Healthcare Management System**<br/>A robust platform facilitating interactions between patients, doctors, and admins. Features appointment scheduling and dynamic dashboards.<br/><br/>![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JSP & Servlets](https://img.shields.io/badge/-JSP_&_Servlets-E76F00?style=flat-square&logo=java&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [**🔴 Live Demo**](https://doctor-patient-portal-08hh.onrender.com)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Healthcare-Management-Application) |
 
 <br/>
 
@@ -71,20 +71,14 @@ I am a passionate **Java Full Stack Developer** specializing in backend architec
 <br/>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&include_all_commits=true&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true" alt="Shreyash's Stats" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ss029v&theme=default&background=ffffff&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&hide_border=true" alt="Streak Stats" />
+  <p align="center">
+    <a href="https://github.com/ss029v">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&include_all_commits=true&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true&count_private=false" alt="Shreyash's Stats" height="180" />
+    </a>
+    <a href="https://github.com/ss029v">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&theme=default&icon_color=8B0000&title_color=8B0000&text_color=333&bg_color=ffffff&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+    </a>
+  </p>
 </div>
 
 <div align="center">

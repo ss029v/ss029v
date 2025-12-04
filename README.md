@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&fontSize=0" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shreyash+Vairagade+%F0%9F%91%8B;Java+Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shreyash+Vairagade+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%7C+React.js" alt="Typing SVG" />
   </a>
 
   <p>
@@ -46,8 +46,8 @@
 
 | **Project** | **Description & Stack** | **Actions** |
 | :--- | :--- | :--- |
-| <img src="https://cdn-icons-png.flaticon.com/512/2965/2965335.png" width="50" alt="Notes Icon" /> <br/> **Secure Notes App** | **Secure, Full-Stack Notes Management System**<br/>Engineered a secure system with JWT Auth (Admin/User roles) and BCrypt encryption. Handles persistent storage via MySQL & JPA.<br/><br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | [**🔴 Live Demo**](https://notes-app-net.netlify.app/)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Note-Web-Application) |
-| <img src="https://cdn-icons-png.flaticon.com/512/3063/3063176.png" width="50" alt="Health Icon" /> <br/> **Doctor-Patient Portal** | **Healthcare Management System**<br/>A robust platform facilitating interactions between patients, doctors, and admins. Features appointment scheduling and dynamic dashboards.<br/><br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) | [**🔴 Live Demo**](https://doctor-patient-portal-08hh.onrender.com)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Healthcare-Management-Application) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2965/2965335.png" width="50" alt="Notes Icon" /> <br/> **Secure Notes App** | **Secure, Full-Stack Notes Management System**<br/>Engineered a secure system with JWT Auth (Admin/User roles) and BCrypt encryption. Handles persistent storage via MySQL & JPA.<br/><br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [**🔴 Live Demo**](https://notes-app-net.netlify.app/)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Note-Web-Application) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3063/3063176.png" width="50" alt="Health Icon" /> <br/> **Doctor-Patient Portal** | **Healthcare Management System**<br/>A robust platform facilitating interactions between patients, doctors, and admins. Features appointment scheduling and dynamic dashboards.<br/><br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) | [**🔴 Live Demo**](https://doctor-patient-portal-08hh.onrender.com)<br/><br/>[**💻 GitHub**](https://github.com/ss029v/Healthcare-Management-Application) |
 
 <br/>
 
@@ -86,7 +86,7 @@
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&hide_border=true&bg_color=ffffff&title_color=8B0000&text_color=333333" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&hide_border=true&bg_color=ffffff&title_color=8B0000&text_color=333333" alt="ss029v languages" />
 </div>
 
 <div align="center">

@@ -1,9 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&fontSize=0" width="100%"/>
   
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shreyash+Vairagade+%F0%9F%91%8B;Java+Full+Stack+Developer" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreyash+Vairagade+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React+Developer;Passionate+Problem+Solver+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
   </a>
+</div>
 
   <p>
     <a href="https://www.linkedin.com/in/shreyash-vairagade/">

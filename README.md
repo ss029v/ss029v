@@ -12,7 +12,7 @@
     <a href="mailto:shreyashvairagadegithub29@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=1f1f1f" />
     </a>
-    <a href="https://notes-app-net.netlify.app/">
+    <a href="https://ssvportfolio29.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ecc71?style=for-the-badge&logo=firefox&logoColor=white&color=1f1f1f" />
     </a>
   </p>
@@ -30,10 +30,9 @@
 </p>
 
 <div align="center">
-  <code>🔭 Currently Working on: Advanced Microservices & Docker containerization</code><br/>
+  <code>🔭 Currently Working on:Smart Contact Manager project</code><br/>
   <code>🌱 Currently Learning: Cloud Deployment (AWS/Azure) & System Design</code><br/>
   <code>💼 Looking for: Opportunities as a Java Developer / Full Stack Engineer</code><br/>
-  <code>⚡ Fun Fact: I treat NullPointerExceptions as personal challenges, not errors</code>
 </div>
 
 <br/>
@@ -79,9 +78,9 @@
 <div align="center">
 
   <!-- GitHub Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=ss029v&theme=flat&no-frame=true&margin-w=15&no-bg=true" alt="trophy" />
-  </a>
+  </a>-->
 
   <br/><br/>
 

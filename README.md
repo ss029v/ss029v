@@ -34,3 +34,8 @@ public class ShreyashVairagade extends Developer {
         this.deploy("Docker Containers");
     }
 }
+<br />
+Backend Core,Frontend Interface,DevOps & Tools
+    ,    ,
+<br />
+<div align="center"> <h3>📊 GitHub Stats</h3> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME_HERE%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DE25A5A%26icon_color%3DE25A5A" height="180" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME_HERE%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DE25A5A%26icon_color%3DE25A5A" height="180" alt="languages graph" /> </div>

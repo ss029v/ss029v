@@ -1,7 +1,8 @@
-<div align="center"> <a href="https://git.io/typing-svg">   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8B0000&section=header&reversal=true&animation=twinkling&text=Hi,%20I'm%20Shreyash%20Vairagade%20%7C%20Java%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=40"
-    width="100%"
-  />
+<div align="center"> <a href="https://git.io/typing-svg">  <img
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=111111&section=header&reversal=true&animation=twinkling&text=Hi,%20I'm%20Shreyash%20Vairagade%20%7C%20Java%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=40"
+  width="100%"
+/>
+
 
 
 

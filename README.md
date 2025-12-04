@@ -1,16 +1,7 @@
 <div align="center">
-<!-- 🔥 Dark Red Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8B0000&section=header&reversal=true&animation=twinkling&fontSize=0" width="100%"/>
-
-<!-- 👋 Typing Animation on Top -->
-<div align="center" style="margin-top:-120px; position: relative;">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreyash+Vairagade;Java+Full+Stack+Developer"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-svg.vercel.app/api/header-wave?title=Hi%2C%20I'm%20Shreyash%20Vairagade&subtitle=Java%20Full%20Stack%20Developer&color=8B0000" />
+</p>
 
 
   <p>

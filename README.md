@@ -38,4 +38,9 @@ public class ShreyashVairagade extends Developer {
 Backend Core,Frontend Interface,DevOps & Tools
     ,    ,
 <br />
+Project,Tech Stack,Description
+📝 Notes Application,Spring Boot React MySQL Docker,"Full-stack notes system with JWT Auth, Role-based access, and React Context API for session management."
+🏥 Healthcare System,Java JSP/Servlet JDBC Bootstrap,Doctor-Patient portal with dashboard analytics and automated DB setup. Deployed on Render.
+📒 Smart Contact Manager,Spring Boot OAuth2 Thymeleaf,In Progress - Advanced contact management with cloud storage integration and secure OAuth login.
+<br />
 <div align="center"> <h3>📊 GitHub Stats</h3> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME_HERE%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DE25A5A%26icon_color%3DE25A5A" height="180" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME_HERE%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3DE25A5A%26icon_color%3DE25A5A" height="180" alt="languages graph" /> </div>

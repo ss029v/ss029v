@@ -75,16 +75,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 </div>
 <br/>
-<div align="center">
+<<div align="center">
 
-  <!-- GitHub Trophy (NEW working domain) -->
+  <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=ss029v&theme=flat&no-frame=true&margin-w=15&no-bg=true" alt="trophy" />
   </a>
 
   <br/><br/>
 
-  <!-- GitHub Stats (NEW official version) -->
+  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&theme=default&hide_border=true" 
     alt="GitHub stats"
@@ -92,7 +92,15 @@
 
   <br/>
 
-  <!-- Top Languages (NEW official version) -->
+  <!-- GitHub Streak Stats (the one you requested) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=ss029v&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" 
+    alt="GitHub Streak"
+  />
+
+  <br/>
+
+  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&hide_border=true" 
     alt="Top Languages"
@@ -103,6 +111,7 @@
 <br/>
 
 <div align="center">
-  <!-- Footer Wave (NEW working domain) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" />
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
 </div>
+

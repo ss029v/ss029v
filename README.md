@@ -2,11 +2,6 @@
   src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0A0A0A&section=header&reversal=true&animation=twinkling&text=Hi,%20I'm%20Shreyash%20Vairagade%20%7C%20Java%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=40"
   width="100%"
 />
-
-
-
-
-
   <p>
     <a href="https://www.linkedin.com/in/shreyash-vairagade/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8B0000" />
@@ -114,5 +109,9 @@
 
 <div align="center">
   <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=100&section=footer" 
+  width="100%"
+/>
+
 </div>

@@ -69,13 +69,14 @@
 </div>
 
 <br/>
-
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 </div>
+
 <br/>
-<<div align="center">
+
+<div align="center">
 
   <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -84,15 +85,15 @@
 
   <br/><br/>
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (NEW MIRROR LINK - FIXED) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ss029v&show_icons=true&theme=default&hide_border=true" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ss029v&show_icons=true&theme=default&hide_border=true" 
     alt="GitHub stats"
   />
 
   <br/>
 
-  <!-- GitHub Streak Stats (the one you requested) -->
+  <!-- GitHub Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=ss029v&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" 
     alt="GitHub Streak"
@@ -100,9 +101,9 @@
 
   <br/>
 
-  <!-- Top Languages -->
+  <!-- Top Languages (NEW MIRROR LINK - FIXED) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss029v&layout=compact&hide_border=true" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ss029v&layout=compact&hide_border=true" 
     alt="Top Languages"
   />
 
@@ -114,4 +115,3 @@
   <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
 </div>
-
